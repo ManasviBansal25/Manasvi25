@@ -1,6 +1,6 @@
 # About me
 
-I’m **\Manasvi Bansal**, a Computer Science undergrad at **BML Munjal University**.
+I’m **Manasvi Bansal**, a Computer Science undergrad at **BML Munjal University**.
 I enjoy learning new concepts in tech, experimenting with projects, and improving my skills step by step.
 
 ### 📖 Currently Learning
